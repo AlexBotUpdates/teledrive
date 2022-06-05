@@ -24,7 +24,7 @@ Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 - Commit your changes
 - Create a pull request to the `staging` branch
 
-Or, just send us an [issue](https://github.com/mgilangjanuar/teledrive/issues) for reporting bugs and/or ask the questions, share your ideas, etc in [discussions](https://github.com/mgilangjanuar/teledrive/discussions).
+O
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mgilangjanuar/teledrive)
